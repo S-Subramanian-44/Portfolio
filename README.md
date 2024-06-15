@@ -17,8 +17,12 @@ Throughout my academic career, I've developed proficiency in various programming
 - **Python**: Proficient in Python programming language, including libraries like NumPy, Pandas, Matplotlib, and scikit-learn.
 - **SQL**: Knowledgeable in SQL for database management and querying.
 - **Machine Learning**: Familiar with machine learning algorithms, techniques, and frameworks for predictive modeling and data analysis.
+- **Data Mining**: Experienced in data mining techniques including OLAP, data warehousing, regression analysis, clustering, and association rule learning.
 - **Data Visualization**: Skilled in creating visual representations of data using tools like Matplotlib, Seaborn, and Tableau.
 - **Statistics**: Strong foundation in statistical concepts and methods for data analysis and inference.
+- **Web Development**: Experience in developing web applications using HTML, CSS, JavaScript, and frameworks like Flask and Django.
+- **MEAN Stack**: Proficient in developing full-stack web applications using MongoDB, Express.js, Angular, and Node.js.
+- **MERN Stack**: Experience in building dynamic web applications with MongoDB, Express.js, React, and Node.js.
 
 ## Contact
 
